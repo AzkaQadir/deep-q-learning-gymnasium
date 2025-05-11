@@ -35,9 +35,7 @@ Logging: Episode reward averages and training losses are plotted for performance
 📊 Results:
 The notebook produces:
 Average return over 100 episodes
-
 Mean Squared Error (MSE) loss during training
-
 Both metrics are visualized using matplotlib.
 
 📌 Disclaimer:
