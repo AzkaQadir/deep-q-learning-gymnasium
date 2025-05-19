@@ -24,10 +24,10 @@ Code includes	DQN model, replay buffer, training logic, and result visualization
 
 ## ⚙️ Dependencies:
 To run this notebook, install the following packages:
-''' pip install gymnasium torch matplotlib numpy
+```pip install gymnasium torch matplotlib numpy
 pip install swig
 pip install "gymnasium[box2d]"
-'''
+```
 ✅ Tested on Google Colab with Python 3.10+
 
 ## 🧪 Environments Used:
